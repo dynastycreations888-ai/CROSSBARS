@@ -1,0 +1,8 @@
+{
+  "name": "CROSSBARS",
+  "description": "Premium pan-India sports matchmaking platform. Book and join Football, Box Cricket, and Padel matches near you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
